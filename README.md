@@ -10,7 +10,7 @@ A slack weather bot that reports the weather of a city of choice using the [Open
     
 2. The bot will report with the appropriate message. 
 
-# <img src="images/exampleShot.png" height=300>
+# <img src="images/ExampleShot.png" height=300>
 
 ### To run bot locally
 
