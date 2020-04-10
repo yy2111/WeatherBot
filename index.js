@@ -40,9 +40,9 @@ bot.on('message', (data) => {
   if (data.subtype == 'bot_message') { 
     return;
   }
-  if (!data.text.includes(botId)) {
-    return;
-  }
+  //if (!data.text.includes(botId)) {
+  //  return;
+  //}
   let message = data.text;
   let channel = data.channel;
   
